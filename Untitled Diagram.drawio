@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T07:22:16.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kayhssy2H9QAWELWvVrg" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T07:29:21.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aKYUL47B4UzMp3Z6MUpA" version="17.5.0" type="github">
   <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
     <mxGraphModel dx="922" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="279d4c6e8b4f5ae2-20" value="Event 11" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="606" y="706" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-21" value="Event 12" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="940" y="706" width="20" height="110" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-21" value="Event 12" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=-90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="730" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-22" value="Event 4" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="390" y="485" width="20" height="110" as="geometry" />
@@ -79,8 +79,8 @@
         <mxCell id="279d4c6e8b4f5ae2-26" value="Event 8" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="657" y="635" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-27" value="Event 9" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="991" y="635" width="20" height="110" as="geometry" />
+        <mxCell id="279d4c6e8b4f5ae2-27" value="Event 9" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=-90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="663" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yY62R9y1dSUibu5uFj24-2" value="&lt;h3&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px&quot;&gt;SA RAME !&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="588" width="120" height="50" as="geometry" />
@@ -150,6 +150,20 @@
         </mxCell>
         <mxCell id="yY62R9y1dSUibu5uFj24-47" value="Connection au compte&lt;br&gt;&amp;nbsp;non fonctionnel" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#000000;fontSize=14;fontStyle=1;fontFamily=Times New Roman;labelBorderColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="741.75" y="505" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yY62R9y1dSUibu5uFj24-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=7;fontColor=#66CC00;strokeColor=#4D9900;strokeWidth=4;" edge="1" parent="1" source="yY62R9y1dSUibu5uFj24-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yY62R9y1dSUibu5uFj24-49" value="Contacter le service client &lt;br&gt;Be Eco" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#000000;fontSize=14;fontStyle=1;fontFamily=Times New Roman;labelBorderColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="698" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yY62R9y1dSUibu5uFj24-51" value="&lt;h3 style=&quot;font-size: 14px&quot;&gt;Résolue&amp;nbsp;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 14px&quot;&gt;le problème&lt;/h3&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#000000;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="678" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yY62R9y1dSUibu5uFj24-55" value="&lt;h3 style=&quot;font-size: 14px&quot;&gt;Mettre à jour son système&amp;nbsp;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 14px&quot;&gt;ou l&#39;application&lt;/h3&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#000000;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1029" y="745" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
